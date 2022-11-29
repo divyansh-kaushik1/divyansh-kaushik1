@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Connect with me on :
 <div align="center">
-    <a href="www.linkedin.com/in/divyansh-kaushik1"><img
+    <a href="https://www.linkedin.com/in/divyansh-kaushik1"><img
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" /></a>
     <a href="https://www.hackerrank.com/divyansh_kaushi1"><img
